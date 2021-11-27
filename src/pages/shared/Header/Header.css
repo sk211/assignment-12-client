@@ -1,0 +1,23 @@
+.header {
+  text-align: center;
+  background-color: #053f81;
+  padding: 13px 0px;
+}
+.header a {
+  color: #fff;
+  text-decoration: none;
+  padding: 5px 10px;
+}
+
+.my-lg-0.justify-content-end.navbar-nav span {
+  margin-top: 6px;
+  margin-right: 12px;
+  text-transform: uppercase;
+  font-weight: bold;
+}
+
+.header button {
+  line-height: 4px;
+  padding: 10px 25px;
+  margin: 0px 7px;
+}

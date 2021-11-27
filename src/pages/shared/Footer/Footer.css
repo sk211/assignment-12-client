@@ -1,0 +1,39 @@
+.footer .logo img {
+    width: 30px;
+}
+
+.footer span.air {
+    font-size: 35px;
+    font-weight: bold;
+    text-transform: uppercase;
+    padding: 6px;
+    color: #ff5161;
+}
+
+.footer span.time {
+    font-size: 35px;
+    font-weight: bold;
+    color: #ff5161;
+    text-transform: uppercase;
+}
+
+.footer {
+    background: #053f81 ;
+    padding: 34px;
+}
+
+.footer .logo {
+    background: #fff;
+    text-align: center;
+    padding: 15px;
+}
+
+.footer ul {
+    list-style: none;
+}
+
+.footer ul li a {
+    color: #fff;
+    text-decoration: none;
+    font-size: 17px;
+}
